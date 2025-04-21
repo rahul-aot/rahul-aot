@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rahul-aot/count.svg?"  />
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/zccott?theme=transparent&font=Roboto)
 </div>
 
 ###
