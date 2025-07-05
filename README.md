@@ -27,10 +27,8 @@
 <br clear="both">
 
 <div align="center">
-<a href="https://twitter.com/zccott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zccott" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zccott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zccott" height="30" width="40" /></a>
-<a href="https://instagram.com/zccott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zccott" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zccott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zccott" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zccott) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zccott) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zccott) 
 </div>
 
-###
+
