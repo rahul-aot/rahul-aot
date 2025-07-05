@@ -22,7 +22,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/rahul-aot/rahul-aot/output/snake.svg" alt="Snake animation" />
 
 ###
 
