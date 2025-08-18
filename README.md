@@ -1,12 +1,5 @@
 <h6 align="center">Hi 👋! I'm Rahul, a passionate Web Developer with a knack for creating intuitive and responsive web applications</h6>
 
-###
-
-"""<div align="center">
-  <img src="https://profile-counter.glitch.me/rahul-aot/count.svg?"  />
-</div>"""
-
-###
 
 <div align="center">
 
