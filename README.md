@@ -17,7 +17,9 @@ src="https://img.shields.io/twitter/follow/zccott?logo=twitter&style=for-the-bad
 /></a>
 
 
-<div align="center">
+### Badges
+
+<b>My GitHub Stats</b>
 
 ![](https://github-readme-stats.vercel.app/api?username=rahul-aot&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahul-aot&theme=dark&hide_border=true)<br/>
@@ -25,7 +27,6 @@ src="https://img.shields.io/twitter/follow/zccott?logo=twitter&style=for-the-bad
 
 ###
 
-</div>
 
 ###
 
