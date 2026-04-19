@@ -1,4 +1,7 @@
-<h6 align="center">Hi 👋! I'm Rahul, a passionate Web Developer with a knack for creating intuitive and responsive web applications</h6>
+Hi 👋! I'm Rahul,
+-----------------
+
+a passionate Web Developer with a knack for creating intuitive and responsive web applications
 
 * 🌍  I'm based in india
 * 🖥️  See my portfolio at [rahulap](http://rahulap.vercel.app)
@@ -15,9 +18,6 @@
 src="https://img.shields.io/github/followers/zccott?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/zccott" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/zccott?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
-
-### Badges
 
 <b>My GitHub Stats</b>
 
