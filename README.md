@@ -63,4 +63,4 @@ A passionate Web Developer with a knack for creating intuitive and responsive we
 
 
 
-<img src="https://raw.githubusercontent.com/rahul-aot/rahul-aot/output/dist/snake.svg" />
+<img src="https://raw.githubusercontent.com/rahul-aot/rahul-aot/output/snake.svg" />
