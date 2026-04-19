@@ -37,7 +37,6 @@ A passionate Web Developer with a knack for creating intuitive and responsive we
 <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" /></a>
-<a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="36" /></a>
 </p>
 
 ---
