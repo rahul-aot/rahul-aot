@@ -8,6 +8,10 @@ A passionate Web Developer with a knack for creating intuitive and responsive we
 
 ---
 
+<img src="https://raw.githubusercontent.com/rahul-aot/rahul-aot/output/snake.svg" />
+
+---
+
 ### 🚀 Skills
 
 <p align="left">
@@ -61,6 +65,3 @@ A passionate Web Developer with a knack for creating intuitive and responsive we
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-aot&theme=dark&hide_border=true&layout=compact)
 
-
-
-<img src="https://raw.githubusercontent.com/rahul-aot/rahul-aot/output/snake.svg" />
