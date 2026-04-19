@@ -3,8 +3,8 @@
 A passionate Web Developer with a knack for creating intuitive and responsive web applications
 
 - 🌍 I'm based in India  
-- 🖥️ Portfolio: http://rahulap.vercel.app  
-- ✉️ Email: rahulap.js@gmail.com  
+- 🖥️ See my portfolio at [rahulap](http://rahulap.vercel.app) 
+- ✉️ You can contact me at [rahulap.js@gmail.com](mailto:rahulap.js@gmail.com)
 
 ---
 
