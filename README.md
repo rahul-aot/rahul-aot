@@ -52,8 +52,8 @@ A passionate Web Developer with a knack for creating intuitive and responsive we
 <a href="https://github.com/zccott"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
 <a href="https://x.com/zccott"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
 <a href="https://www.threads.net/@zccott"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" /></a>
-<a href="https://www.linkedin.com/in/rahulapjs"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-<a href="https://www.youtube.com/@rahulapjs"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" /></a>
+<a href="https://www.linkedin.com/in/itsrahulap"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+<a href="https://www.youtube.com/@itsrahulap"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" /></a>
 </p>
 
 ---
