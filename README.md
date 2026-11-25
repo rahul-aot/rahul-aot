@@ -41,7 +41,7 @@ A Full-Stack Developer with a knack for creating intuitive and responsive web ap
 
 ![](https://github-readme-stats.vercel.app/api?username=rahul-aot&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=rahul-aot&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahul-aot&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-aot&theme=dark&hide_border=true&layout=compact)
 
