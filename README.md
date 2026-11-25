@@ -3,15 +3,14 @@
 
 A Full-Stack Developer with a knack for creating intuitive and responsive web applications
 
-- 💼 Software Engineer at **AOT Technologies**
-- 🏥 Building **Quipo**, a telehealth platform: virtual care, AI scribe (live transcription + SOAP notes), EMR integration and billing
-- 🔭 Working with Angular, NestJS, Node.js, Java and PostgreSQL/MySQL, plus Stripe payments, WebRTC video calls and Jira
-- 🤖 Building AI-assisted features and shipping faster with Claude Code
+- 🔭 Mainly working with **Angular**, **Gen AI**, **FastAPI** and **Node.js**
+- 🤖 Building LLM-powered apps and AI-assisted workflows
 - 🌍 I'm based in India  
 - 🖥️ See my portfolio at [https://rahulap.vercel.app/](https://rahulap.vercel.app/) 
 - ✉️ You can contact me at [itsrahulap@gmail.com](mailto:itsrahulap@gmail.com)
 
 ---
+
 
 <img src="https://raw.githubusercontent.com/rahul-aot/rahul-aot/output/snake.svg" />
 
